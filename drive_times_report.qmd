@@ -11,7 +11,7 @@ editor: visual
 #| echo: false
 #| message: false
 #| warning: false
-
+library(dplyr)
 source("drive_times_setup.R")
 
 ## Load the API key
